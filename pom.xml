@@ -32,6 +32,7 @@
 	</dependencies>
 
 	<build>
+		<fileName>poc</fileName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
